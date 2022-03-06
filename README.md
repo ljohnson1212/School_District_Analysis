@@ -32,7 +32,7 @@
 
 		Thomas High School's % Overall Passing was 65.
 
-	OBSERVATION: Overall order change due to Thomas High School cleanup.
+#OBSERVATION:
 
 	Math and reading scores by grade - 
 		Student count() Before THS Cleanup was: 1635
@@ -44,10 +44,10 @@
                    "% Passing Math", 
                    "% Passing Reading"  
                    "% Overall Passing" 
-                   
-		Removing Students from Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$601-650"
-		Thomas High School is allocated on Spending Bin "$601-650"
-
+          
 #Conclusion
-
-        After completing the analysis, it is concluded that the data was different between the two observations. It showed that the results benefited the school during the first analysis. I would recommend trying multiple analysis to verify the first test for accuracy. 
+         
+	Removing Students from Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$601-650"
+	Thomas High School is allocated on Spending Bin "$601-650"
+	
+	After completing the analysis, it is concluded that the data was different between the two observations. It showed that the results benefited the school during the first analysis. I would recommend 		trying multiple analysis to verify the first test for accuracy. 
