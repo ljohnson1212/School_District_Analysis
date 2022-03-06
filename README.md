@@ -37,7 +37,7 @@
 	Math and reading scores by grade - 
 		Student count() Before THS Cleanup was: 1635 - 
 		Student count() After THS Cleanup was: 1174
-		Scores by school spending - Thomas HS is in the spending bucket "$630-644"
+		Scores by school spending - Thomas HS is in the spending bucket "$601-650"
 
 	Scores by school size
 		Removing Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for the size.
